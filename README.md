@@ -8,8 +8,6 @@ This project is a responsive website designed to provide insights into modern ag
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
 - [How to Run the Project](#how-to-run-the-project)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 
