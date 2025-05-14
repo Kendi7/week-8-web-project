@@ -39,13 +39,6 @@ This project is a responsive website designed to provide insights into modern ag
 1. Clone the repository or download the project files.
 2. Open the `index.html` file in your browser to view the website.
 
-## Screenshots
-
-### Hero Section
-![Hero Section](images/heroSection.png)
-
-### Card Section
-![Card Section](images/agriMachinery.png)
 
  ## How to Run the Project
 
@@ -63,28 +56,8 @@ To clone this repository, follow these steps:
 ```bash
    git clone https://github.com/your-username/agricultural-insights-website.git
 ```
-# 1. Fork the repository
-# Go to the GitHub page and click the "Fork" button.
 
-# 2. Clone your fork to your local machine
-git clone https://github.com/your-username/your-forked-repo.git
 
-# 3. Navigate into the project directory
-cd your-forked-repo
 
-# 4. Set the original repository as the upstream remote
-git remote add upstream https://github.com/original-owner/original-repo.git
 
-# 5. Create a new branch for your feature or fix
-git checkout -b your-feature-branch
-
-# 6. Make your changes and commit them
-git add .
-git commit -m "Add: Your meaningful commit message"
-
-# 7. Push your branch to your fork
-git push origin your-feature-branch
-
-# 8. Open a Pull Request
-# Go to GitHub, compare & create a pull request to the original repository.
 
